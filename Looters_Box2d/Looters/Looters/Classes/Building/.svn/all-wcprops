@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/2938/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building
+END
+BuildingDraws.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2865/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingDraws.cpp
+END
+BuildingUpdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2938/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingUpdate.cpp
+END
+BuildingBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2938/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingBase.cpp
+END
+BuildingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2889/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingManager.cpp
+END
+BuildingBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2885/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingBase.h
+END
+BuildingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2103/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Building/BuildingManager.h
+END

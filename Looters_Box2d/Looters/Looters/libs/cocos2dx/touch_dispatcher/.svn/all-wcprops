@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2956/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher
+END
+CCTouchDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/2956/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.h
+END
+CCTouchHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouchHandler.cpp
+END
+CCTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouch.cpp
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouchHandler.h
+END
+CCTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/touch_dispatcher/CCTouch.h
+END

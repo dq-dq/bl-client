@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes
+END
+CCParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleSystem.cpp
+END
+CCParticleSystemQuad.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleSystemQuad.h
+END
+CCParticleBatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleBatchNode.cpp
+END
+CCParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleSystem.h
+END
+CCParticleBatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleBatchNode.h
+END
+CCParticleExamples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleExamples.cpp
+END
+CCParticleSystemQuad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleSystemQuad.cpp
+END
+CCParticleExamples.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/particle_nodes/CCParticleExamples.h
+END

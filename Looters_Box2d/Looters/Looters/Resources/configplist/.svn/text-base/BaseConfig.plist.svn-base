@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>landServer</key>
+	<dict>
+		<key>ServerIP</key>
+		<string>114.113.158.159</string>
+		<key>ServerPort</key>
+		<string>8888</string>
+	</dict>
+	<key>versionInfo</key>
+	<dict>
+		<key>versionNumber</key>
+		<string>1.000000</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>build_tower_cannon_lv3_attack_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 354}, {112, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{112, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {112, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_attack_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 352}, {112, 94}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{112, 94}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 2}, {112, 94}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_attack_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 351}, {112, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 1}</string>
+			<key>spriteSize</key>
+			<string>{112, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 2}, {112, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_attack_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 349}, {112, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 2}</string>
+			<key>spriteSize</key>
+			<string>{112, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{344, 2}, {112, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_attack_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 347}, {112, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{112, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 102}, {112, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_attack_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 347}, {112, 100}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 3}</string>
+			<key>spriteSize</key>
+			<string>{112, 100}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 102}, {112, 100}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 102}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 102}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 204}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 204}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 204}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{338, 204}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 278}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 354}, {110, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{110, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 278}, {110, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 357}, {110, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{110, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 278}, {110, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 365}, {110, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -6}</string>
+			<key>spriteSize</key>
+			<string>{110, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{338, 278}, {110, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 371}, {110, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -9}</string>
+			<key>spriteSize</key>
+			<string>{110, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 372}, {110, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 379}, {110, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -13}</string>
+			<key>spriteSize</key>
+			<string>{110, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{114, 372}, {110, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 379}, {112, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -13}</string>
+			<key>spriteSize</key>
+			<string>{112, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 372}, {112, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 382}, {112, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -14}</string>
+			<key>spriteSize</key>
+			<string>{112, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 372}, {112, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_pre_attack_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 370}, {112, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -8}</string>
+			<key>spriteSize</key>
+			<string>{112, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 450}, {112, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_tower_cannon_lv3_wait_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{345, 375}, {110, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -11}</string>
+			<key>spriteSize</key>
+			<string>{110, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{800, 800}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 450}, {110, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 1024}</string>
+	</dict>
+</dict>
+</plist>

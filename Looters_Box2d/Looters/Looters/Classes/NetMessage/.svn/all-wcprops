@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2967/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage
+END
+BattleStart.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2077/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/BattleStart.pb.h
+END
+UserRegisterInfo.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1305/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UserRegisterInfo.pb.cc
+END
+AllMessageHead.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2966/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/AllMessageHead.h
+END
+DownloadBattleInfor.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/2169/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/DownloadBattleInfor.pb.cc
+END
+UserRegisterInfo.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1305/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UserRegisterInfo.pb.h
+END
+DownloadBattleInfor.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/2169/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/DownloadBattleInfor.pb.h
+END
+ProduceSoldiers.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2116/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/ProduceSoldiers.pb.cc
+END
+PVPGradeOrder.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/2967/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/PVPGradeOrder.pb.h
+END
+UserLogin.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2745/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UserLogin.pb.cc
+END
+UploadBattleFlow.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/2076/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UploadBattleFlow.pb.cc
+END
+UserLogin.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2745/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UserLogin.pb.h
+END
+Recharge.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1837/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/Recharge.pb.cc
+END
+CancleBattle.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/2276/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/CancleBattle.pb.cc
+END
+CancleBattle.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2276/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/CancleBattle.pb.h
+END
+RevengeBattle.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/RevengeBattle.pb.cc
+END
+BattleMatching.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/BattleMatching.pb.h
+END
+OperateSequence.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1940/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/OperateSequence.pb.cc
+END
+RevengeBattle.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/RevengeBattle.pb.h
+END
+IMessage.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/IMessage.pb.h
+END
+DownloadMapInfor.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1904/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/DownloadMapInfor.pb.cc
+END
+PVPGradeOrder.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2967/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/PVPGradeOrder.pb.cc
+END
+DownloadMapInfor.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1904/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/DownloadMapInfor.pb.h
+END
+IoFile.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2119/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/IoFile.pb.cc
+END
+ProduceSoldiers.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/2116/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/ProduceSoldiers.pb.h
+END
+IoFile.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2119/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/IoFile.pb.h
+END
+UploadBattleFlow.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2076/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UploadBattleFlow.pb.h
+END
+UploadBattleResult.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1849/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UploadBattleResult.pb.cc
+END
+UploadBattleResult.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/1849/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/UploadBattleResult.pb.h
+END
+Recharge.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1837/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/Recharge.pb.h
+END
+BattleMatching.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/BattleMatching.pb.cc
+END
+BattleStart.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2077/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/BattleStart.pb.cc
+END
+OperateSequence.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1940/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/OperateSequence.pb.h
+END
+IMessage.pb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/NetMessage/IMessage.pb.cpp
+END

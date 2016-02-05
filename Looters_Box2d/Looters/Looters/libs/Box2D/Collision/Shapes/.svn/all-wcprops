@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes
+END
+b2EdgeShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2EdgeShape.h
+END
+b2PolygonShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2PolygonShape.h
+END
+b2CircleShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2CircleShape.cpp
+END
+b2ChainShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2ChainShape.cpp
+END
+b2EdgeShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2EdgeShape.cpp
+END
+b2Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2Shape.h
+END
+b2CircleShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2CircleShape.h
+END
+b2ChainShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2ChainShape.h
+END
+b2PolygonShape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/Box2D/Collision/Shapes/b2PolygonShape.cpp
+END

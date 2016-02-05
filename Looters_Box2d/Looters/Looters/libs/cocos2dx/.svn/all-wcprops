@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/2956/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx
+END
+CCCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCCamera.cpp
+END
+CCDirector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCDirector.cpp
+END
+CCDrawingPrimitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCDrawingPrimitives.h
+END
+CCConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCConfiguration.h
+END
+CCCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCCamera.h
+END
+CCScheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCScheduler.cpp
+END
+CCDirector.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCDirector.h
+END
+CCScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCScheduler.h
+END
+cocos2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/cocos2d.cpp
+END
+CCConfiguration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCConfiguration.cpp
+END
+CCDrawingPrimitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/CCDrawingPrimitives.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/3023/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer
+END
+LSpriteLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/2603/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/LSpriteLayer.cpp
+END
+LoadingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1818/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/LoadingLayer.h
+END
+DialogLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/2936/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/DialogLayer.h
+END
+ChangeLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/3023/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/ChangeLayer.cpp
+END
+TipNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2913/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/TipNode.cpp
+END
+LSpriteLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/2603/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/LSpriteLayer.h
+END
+BuyNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1837/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/BuyNode.cpp
+END
+ChangeLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/2900/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/ChangeLayer.h
+END
+TipNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2887/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/TipNode.h
+END
+TipInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2848/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/TipInfo.cpp
+END
+BuyNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/1837/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/BuyNode.h
+END
+LoadingLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/2923/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/LoadingLayer.cpp
+END
+DialogLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/2936/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/DialogLayer.cpp
+END
+TipInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2848/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CommonLayer/TipInfo.h
+END

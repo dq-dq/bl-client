@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures
+END
+CCTexturePVR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTexturePVR.cpp
+END
+CCTextureCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTextureCache.h
+END
+CCTextureAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTextureAtlas.h
+END
+CCTexture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTexture2D.h
+END
+CCTexturePVR.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTexturePVR.h
+END
+CCTextureCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTextureCache.cpp
+END
+CCTextureAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTextureAtlas.cpp
+END
+CCTexture2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/textures/CCTexture2D.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include
+END
+CCEventType.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/CCEventType.h
+END
+CCProtocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/CCProtocols.h
+END
+ccMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/ccMacros.h
+END
+ccTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/ccTypes.h
+END
+ccConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/ccConfig.h
+END
+cocos2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/cocos2d.h
+END
+ccTypeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/include/ccTypeInfo.h
+END

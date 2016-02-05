@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>build_elixirPump_lv1_production_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -0}</string>
+			<key>spriteSize</key>
+			<string>{104, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 2}, {104, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -0}</string>
+			<key>spriteSize</key>
+			<string>{104, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 2}, {104, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 92}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -0}</string>
+			<key>spriteSize</key>
+			<string>{104, 92}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 2}, {104, 92}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 96}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 280}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 188}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 188}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 372}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_production_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 188}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_wait_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 280}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_attack_down_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{100, 2}, {20, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_attack_down_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 2}, {20, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_attack_up_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 0}, {16, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{16, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{38, 2}, {16, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_attack_up_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {20, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{20, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 2}, {20, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_wait_down_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 0}, {16, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{16, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {16, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_magician_wait_up_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{3, 0}, {16, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -0}</string>
+			<key>spriteSize</key>
+			<string>{16, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{20, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{20, 2}, {16, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 188}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 280}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 280}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 372}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 372}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 96}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{320, 96}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 372}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_elixirPump_lv1_pre_production_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {104, 90}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -1}</string>
+			<key>spriteSize</key>
+			<string>{104, 90}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 92}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{214, 96}, {104, 90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+	</dict>
+</dict>
+</plist>

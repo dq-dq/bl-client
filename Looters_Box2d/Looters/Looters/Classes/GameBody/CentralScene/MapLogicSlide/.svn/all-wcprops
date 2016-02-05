@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/3068/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide
+END
+CentralPeopleTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/looters/!svn/ver/2923/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralPeopleTouch.cpp
+END
+CentralLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/looters/!svn/ver/2875/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralLayer.cpp
+END
+CentralDataInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/looters/!svn/ver/3068/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralDataInit.cpp
+END
+CentralLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/looters/!svn/ver/2892/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralLogic.cpp
+END
+FindRoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/2874/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/FindRoad.cpp
+END
+NavGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/2382/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/NavGraph.cpp
+END
+CentralResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralResponse.cpp
+END
+UnitWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/looters/!svn/ver/2923/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/UnitWorld.cpp
+END
+CentralMapTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/looters/!svn/ver/1813/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralMapTouch.cpp
+END
+CentralLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/looters/!svn/ver/2936/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralLayer.h
+END
+CentralBuildTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/looters/!svn/ver/2996/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralBuildTouch.cpp
+END
+CentralTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/looters/!svn/ver/2825/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/CentralTouch.cpp
+END
+FindRoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/looters/!svn/ver/2273/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/FindRoad.h
+END
+NavGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/looters/!svn/ver/2122/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameBody/CentralScene/MapLogicSlide/NavGraph.h
+END

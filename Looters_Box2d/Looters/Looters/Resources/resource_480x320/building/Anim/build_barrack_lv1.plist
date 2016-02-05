@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>build_barrack_lv1_training_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{90, 2}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 2}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 2}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{354, 2}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 78}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_training_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{90, 78}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_wait_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{48, 34}, {86, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{-9, 29}</string>
+			<key>spriteSize</key>
+			<string>{86, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 78}, {86, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{83, 61}, {32, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 18}</string>
+			<key>spriteSize</key>
+			<string>{32, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 78}, {32, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 63}, {40, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 17}</string>
+			<key>spriteSize</key>
+			<string>{40, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{300, 78}, {40, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 72}, {40, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 13}</string>
+			<key>spriteSize</key>
+			<string>{40, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 78}, {40, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 72}, {38, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 13}</string>
+			<key>spriteSize</key>
+			<string>{38, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{384, 78}, {38, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 73}, {36, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{36, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{424, 78}, {36, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_attack_right_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 73}, {36, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 12}</string>
+			<key>spriteSize</key>
+			<string>{36, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{462, 78}, {36, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{88, 66}, {24, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 16}</string>
+			<key>spriteSize</key>
+			<string>{24, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 154}, {24, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 64}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 17}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 154}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 70}, {28, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 13}</string>
+			<key>spriteSize</key>
+			<string>{28, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{56, 154}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{81, 75}, {42, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 11}</string>
+			<key>spriteSize</key>
+			<string>{42, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{86, 154}, {42, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 79}, {48, 26}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 8}</string>
+			<key>spriteSize</key>
+			<string>{48, 26}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 154}, {48, 26}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 77}, {48, 28}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 9}</string>
+			<key>spriteSize</key>
+			<string>{48, 28}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 154}, {48, 28}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 82}, {48, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 6}</string>
+			<key>spriteSize</key>
+			<string>{48, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 154}, {48, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_death_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 86}, {50, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 4}</string>
+			<key>spriteSize</key>
+			<string>{50, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 154}, {50, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_pre_attack_right_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 68}, {28, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSize</key>
+			<string>{28, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 154}, {28, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_pre_attack_right_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{74, 66}, {40, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 16}</string>
+			<key>spriteSize</key>
+			<string>{40, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{362, 154}, {40, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 66}, {24, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 15}</string>
+			<key>spriteSize</key>
+			<string>{24, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{404, 154}, {24, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 67}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 154}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 68}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{458, 154}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{85, 69}, {28, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{28, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 194}, {28, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{85, 69}, {28, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{28, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{32, 194}, {28, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 70}, {30, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 12}</string>
+			<key>spriteSize</key>
+			<string>{30, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{62, 194}, {30, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{85, 69}, {28, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{28, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{94, 194}, {28, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{85, 69}, {28, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{28, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{124, 194}, {28, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 68}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 13}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 194}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_run_right_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 67}, {26, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 194}, {26, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_01.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 68}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{210, 194}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_02.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 68}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 194}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_03.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 68}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{266, 194}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_04.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 69}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_05.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 69}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_06.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 70}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 13}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_07.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 70}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 13}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{378, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_08.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 69}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_09.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 69}, {26, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 194}, {26, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>build_barrack_lv1_solider_wait_right_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{87, 68}, {26, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 14}</string>
+			<key>spriteSize</key>
+			<string>{26, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{200, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{462, 194}, {26, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/2926/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts
+END
+Unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2885/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Unit.cpp
+END
+AttackData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/AttackData.cpp
+END
+Missle.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2088/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Missle.h
+END
+Unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2926/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Unit.h
+END
+AttackData.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/2088/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/AttackData.h
+END
+Attack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2923/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Attack.cpp
+END
+AI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2874/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/AI.cpp
+END
+UnitClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/2516/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/UnitClass.h
+END
+Attack.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2381/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Attack.h
+END
+Missle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2088/Tech/Client/Looters_Box2d/Looters/Looters/Classes/Rts/Missle.cpp
+END

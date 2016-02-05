@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2781/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios
+END
+CDConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CDConfig.h
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CocosDenshion.h
+END
+SimpleAudioEngine_objc.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/SimpleAudioEngine_objc.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CDOpenALSupport.h
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CDAudioManager.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CocosDenshion.m
+END
+SimpleAudioEngine.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/2781/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/SimpleAudioEngine.mm
+END
+SimpleAudioEngine_objc.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/SimpleAudioEngine_objc.m
+END
+CDOpenALSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CDOpenALSupport.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/CocosDenshion/ios/CDAudioManager.m
+END

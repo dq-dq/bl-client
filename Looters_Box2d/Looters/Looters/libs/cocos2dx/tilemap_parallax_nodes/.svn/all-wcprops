@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes
+END
+CCTMXTiledMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.cpp
+END
+CCParallaxNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCParallaxNode.cpp
+END
+CCTMXLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h
+END
+CCTMXXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h
+END
+CCTMXObjectGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.cpp
+END
+CCTMXTiledMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h
+END
+CCParallaxNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h
+END
+CCTileMapAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.cpp
+END
+CCTMXObjectGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h
+END
+CCTMXLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXLayer.cpp
+END
+CCTileMapAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h
+END
+CCTMXXMLParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/libs/cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.cpp
+END

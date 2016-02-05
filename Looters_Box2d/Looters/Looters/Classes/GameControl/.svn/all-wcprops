@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/2720/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl
+END
+GameFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2668/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameFile.h
+END
+GamePlatform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2426/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GamePlatform.cpp
+END
+GameControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1436/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameControl.h
+END
+GameSceneManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1436/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameSceneManage.cpp
+END
+SoundManage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/SoundManage.cpp
+END
+GamePlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2426/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GamePlatform.h
+END
+GameResources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1783/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameResources.cpp
+END
+GameSceneManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameSceneManage.h
+END
+SoundManage.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2118/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/SoundManage.h
+END
+GameFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/2720/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameFile.cpp
+END
+GameResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1128/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameResources.h
+END
+GameControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1436/Tech/Client/Looters_Box2d/Looters/Looters/Classes/GameControl/GameControl.cpp
+END
